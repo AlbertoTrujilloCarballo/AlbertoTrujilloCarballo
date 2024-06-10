@@ -7,6 +7,8 @@ Desarrollador de aplicaciones Full-stack, enfocado en videojuegos.
 
 <h3>Mi stack tecnológico:</h3>
 
+[![Spring Boot](https://img.shields.io/badge/spring_boot-f54d27?style=for-the-badge&logo=springboot&logoColor=ffffff&labelColor=101010)]()
+&nbsp;
 [![JavaScript](https://img.shields.io/badge/javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=ffffff&labelColor=101010)]()
 &nbsp;
 [![React](https://img.shields.io/badge/react-039be5?style=for-the-badge&logo=react&logoColor=ffffff&labelColor=101010)]()
